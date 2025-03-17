@@ -31,12 +31,12 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/react-portfolio.git
+   git clone https://github.com/your-username/react-andre-portfolio.git
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd react-portfolio
+   cd react-andre
    
 3. **Install dependencies:**
 

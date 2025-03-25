@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Web developer",
+    "organisation": "SC2C.Aero",
+    "startDate": "Feb, 2025",
+    "endDate": "Present",
+    "experiences": ["worked with database", "full-stack development"],
+    "imageSrc": "history/sc2c_logo.png"
+  },
+  {
+    "role": "Web developer",
+    "organisation": "Pixel - Digital Solutions",
+    "startDate": "Sep, 2024",
+    "endDate": "Present",
+    "experiences": ["worked with Front-end"],
+    "imageSrc": "history/ejpixel_logo.png"
+  }
+]
